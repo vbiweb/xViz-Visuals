@@ -1,4 +1,5 @@
-=== Plugin Name ===
+=== xViz Visuals ===
+
 Contributors: balamvbi, kgkrishnavbi <br>
 Tags: wordpress, shortcode <br>
 Requires at least: 5.0.0 <br>
